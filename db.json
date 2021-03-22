@@ -1,0 +1,28 @@
+{
+  "credentials": [
+    {
+      "name": "trishul",
+      "username": "trishul",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "trishul",
+      "username": "trishul",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "ttt",
+      "username": "tree",
+      "password": "456",
+      "id": 3
+    },
+    {
+      "name": "trishul",
+      "username": "trishul",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
